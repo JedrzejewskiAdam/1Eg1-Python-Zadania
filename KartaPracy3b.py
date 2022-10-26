@@ -5,7 +5,7 @@ for i in range(31):
 for i in range(1, 10, 2):
   print(i*i, end=" ")
 #z3
-for i in range(1137, 10000, 379):
+for i in range(1000, 10000, 379):
   print(i, end=" ")
 #z4
 for i in range(100, 1000):
